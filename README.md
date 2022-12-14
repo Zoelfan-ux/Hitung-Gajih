@@ -1,2 +1,2 @@
-# Hitung-tarif-taksi
-Code tarif taksi menggunakan Python
+# Hitung-Gajih
+Input sesuai program yang ada
