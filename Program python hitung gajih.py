@@ -42,4 +42,4 @@ time.sleep(10)
 #penggunaan split dibutuhkan [0] dan [1] sebagai penunjuk dimana 0 diawal dan 1 di belakang
 
 #Zoelfan A.H
-#064002200040
+#Trisakti University
